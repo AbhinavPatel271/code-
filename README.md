@@ -1,1 +1,1 @@
-<img src="screenshot_googleIn1998.png" >
+<img src="screenshot_googlein1998.png" >
